@@ -1,0 +1,7 @@
+This file run_analysis.R cleans and merges the training and test sets from 'UCI HAR Dataset'.
+Variables are filtered so that only the mean and standard deviation of each remain.
+The files are loaded from the set working directory combined, cleaned and outputs the new dataset as a '.txt' file.
+
+The second part of the script creates a second data set that gives the average of each variable from the previous dataset
+by activity.
+The files are loaded from the set working directory combined, cleaned and outputs the new dataset as a '.txt' file.

@@ -5,7 +5,7 @@ Based on the Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==================================================================
 
-Cleaned Data created by William Kemp
+Cleaned Data created by William Kemp using the run_analysis.R script
 
 Original Data by sets created by:
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
